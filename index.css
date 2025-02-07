@@ -1,0 +1,88 @@
+*{
+margin: 10px;
+padding: 10px;
+}
+
+
+body{
+min-height: 100vh;
+justify-content: center;
+align-items: center;
+display: flex;
+
+}
+
+form{
+max-width: 600px;
+margin: 5px;
+padding: 5px;
+background-color: #7A94A5;
+width: 300px;
+height: 390px;
+border-radius: 30px;
+}
+
+h1{
+text-align: center;
+color: #ffffff;
+font-family: 'poppins', sans-serif;
+font-size: 50px;
+font-weight: 500;
+}
+
+.form-label{
+border-radius: 30px;
+color: #ffffff;
+font-family: 'Montserrat', sans-serif;
+font-size: 23px;
+font-weight: 500;
+}
+
+.form-control{
+width: 280px;
+border-radius: 30px;
+display: flex;
+align-items: center;
+justify-content: center;
+transition: width 2s, margin-top 2s,0.5s ease-in-out;
+cursor: pointer;
+}
+
+.form-control:hover{    
+margin-top: -20px;
+cursor: pointer;
+}
+
+.form-control:focus{
+border-color: rgb(255, 255, 255);
+box-shadow: 0 0 10px rgba(255, 255, 255, 0.61);
+}
+
+.btn-primary{
+margin-top: 30px;
+margin: 10px;
+border-radius: 30px;
+background-color: #7A94A5;
+color: #ffffff;
+border: 2px solid #ffffff;
+font-size: 16px;
+font-weight: bold;
+font-family: 'dubai', sans-serif;
+transition: 0.5s ease-in;
+}
+
+.btn-primary:focus {
+    border-color: rgb(255, 255, 255);
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.61);
+}
+
+.btn-primary:hover{
+background-color: #ffffff;
+color: #000000;
+border-color: #7A94A5;
+}
+
+  .message-error {
+      color: red;
+      margin-top: 10px;
+  }

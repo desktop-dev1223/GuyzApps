@@ -1,0 +1,186 @@
+
+
+.forms{
+    max-width: 600px;
+    background-color: #7A94A5;
+    width: 350px;
+    height: 970px;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 30px;
+}
+
+
+h2 {
+    text-align: center;
+    color: #000000;
+    font-family: 'poppins', sans-serif;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.form-label {
+    border-radius: 30px;
+    color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 23px;
+    font-weight: 500;
+}
+
+
+.form-control {
+    width: 335px;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: width 2s, margin-top 2s, 0.5s ease-in-out;
+}
+
+
+.form-control:focus {
+    border-color: rgb(255, 255, 255);
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.61);
+}
+
+
+
+.btn-primary {
+    margin-top: 30px;
+    border-radius: 30px;
+    background-color: #ffffff;
+    color: #000000;
+    border: 2px solid #ffffff;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: 'dubai', sans-serif;
+    transition: 0.5s ease-in;
+}
+
+.btn-primary:focus {
+    border-color: rgb(255, 255, 255);
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.61);
+}
+
+.btn-primary:hover {
+    background-color: #ffffff;
+    color: #000000;
+    border-color: #7A94A5;
+}
+
+
+
+.btn-secondary {
+    margin-top: 30px;
+    border-radius: 30px;
+    background-color: #7A94A5;
+    color: #ffffff;
+    border: 2px solid #ffffff;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: 'dubai', sans-serif;
+    transition: 0.5s ease-in;
+}
+
+.btn-secondary:focus {
+    border-color: rgb(255, 255, 255);
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.61);
+}
+
+.btn-secondary:hover {
+    background-color: #ffffff;
+    color: #000000;
+    border-color: #7A94A5;
+}
+
+
+.btn-tb{
+border-radius: 30px;
+background-color: #7A94A5;
+color: #ffffff;
+border: 2px solid #ffffff;
+font-size: 16px;
+font-weight: bold;
+font-family: 'dubai', sans-serif;
+transition: 0.5s ease-in;
+}
+
+
+.btn-tb:focus {
+border-color: rgb(255, 255, 255);
+box-shadow: 0 0 10px rgba(255, 255, 255, 0.61);
+}
+
+.btn-tb:hover {
+background-color: #ffffff;
+color: #000000;
+border-color: #7A94A5;
+}
+
+
+
+
+
+.btn-cmd-1 {
+border-radius: 30px;
+background-color: #7A94A5;
+color: #ffffff;
+border: 2px solid #ffffff;
+font-size: 16px;
+font-weight: bold;
+font-family: 'dubai', sans-serif;
+transition: 0.5s ease-in;
+}
+
+
+.btn-cmd-1:focus {
+border-color: rgb(255, 255, 255);
+box-shadow: 0 0 10px rgba(255, 255, 255, 0.61);
+}
+
+.btn-cmd-1:hover {
+background-color: #ffffff;
+color: #000000;
+border-color: #7A94A5;
+}
+
+
+
+
+.btn-cmd-2 {
+border-radius: 30px;
+background-color: #7A94A5;
+color: #ffffff;
+border: 2px solid #ffffff;
+font-size: 16px;
+font-weight: bold;
+font-family: 'dubai', sans-serif;
+transition: 0.5s ease-in;
+text-decoration: none;
+
+}
+
+
+.btn-cmd-2:focus {
+border-color: rgb(255, 255, 255);
+box-shadow: 0 0 10px rgba(255, 255, 255, 0.61);
+}
+
+.btn-cmd-2:hover {
+background-color: #ffffff;
+color: #000000;
+border-color: #7A94A5;
+}
+
+
+
+a{
+text-decoration: none;
+color: #ffffff;
+transition: 0.5s ease-in;
+}
+
+a:hover{
+color: #000000;
+
+}

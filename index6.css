@@ -1,0 +1,124 @@
+
+
+
+
+.btn-primary {
+    margin-top: 30px;
+    border-radius: 30px;
+    background-color: #7A94A5;
+    color: #ffffff;
+    border: 2px solid #ffffff;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: 'dubai', sans-serif;
+    transition: 0.5s ease-in;
+}
+
+.btn-primary:focus {
+    border-color: rgb(255, 255, 255);
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.61);
+}
+
+.btn-primary:hover {
+    background-color: #ffffff;
+    color: #000000;
+    border-color: #7A94A5;
+}
+
+
+
+.btn-secondary {
+    margin-top: 30px;
+    border-radius: 30px;
+    background-color: #7A94A5;
+    color: #ffffff;
+    border: 2px solid #ffffff;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: 'dubai', sans-serif;
+    transition: 0.5s ease-in;
+}
+
+.btn-secondary:focus {
+    border-color: rgb(255, 255, 255);
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.61);
+}
+
+.btn-secondary:hover {
+    background-color: #ffffff;
+    color: #000000;
+    border-color: #7A94A5;
+}
+
+
+.btn-dark {
+    margin-top: 30px;
+    border-radius: 30px;
+    background-color: #7A94A5;
+    color: #ffffff;
+    border: 2px solid #ffffff;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: 'dubai', sans-serif;
+    transition: 0.5s ease-in;
+}
+
+.btn-dark:focus {
+    border-color: rgb(255, 255, 255);
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.61);
+}
+
+.btn-dark:hover {
+    background-color: #ffffff;
+    color: #000000;
+    border-color: #7A94A5;
+}
+
+
+.btn-success {
+    margin-top: 30px;
+    border-radius: 30px;
+    background-color: #7A94A5;
+    color: #ffffff;
+    border: 2px solid #ffffff;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: 'dubai', sans-serif;
+    transition: 0.5s ease-in;
+}
+
+
+.btn-sucess:focus {
+    border-color: rgb(255, 255, 255);
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.61);
+}
+
+.btn-sucess:hover {
+    background-color: #ffffff;
+    color: #000000;
+    border-color: #7A94A5;
+}
+
+.btn-danger {
+    margin-top: 30px;
+    border-radius: 30px;
+    background-color: #7A94A5;
+    color: #ffffff;
+    border: 2px solid #ffffff;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: 'dubai', sans-serif;
+    transition: 0.5s ease-in;
+
+}
+
+.btn-danger:focus {
+    border-color: rgb(255, 255, 255);
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.61);
+}
+
+.btn-danger:hover {
+    background-color: #ffffff;
+    color: #000000;
+    border-color: #7A94A5;
+}
